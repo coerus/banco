@@ -1,5 +1,5 @@
 #include <stdio.h>
-// code gore, pq sou um pessimo desenvolvedo :)
+// code gore, pq sou um pessimo desenvolvedor :)
 int main (int argc, char *argv[])
 {
    int escolha;
